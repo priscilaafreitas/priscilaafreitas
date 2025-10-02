@@ -91,8 +91,6 @@ Minhas habilidades e as ferramentas que utilizo no dia a dia:
 
 ### 📊 Minhas Estatísticas no GitHub
 
-### 📊 Minhas Estatísticas no GitHub
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilaafreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaafreitas&layout=compact&langs_count=7&theme=tokyonight"/>

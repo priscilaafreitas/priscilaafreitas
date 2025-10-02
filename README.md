@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWIzOGZqczIzbzRkdzV4c3pzeWV6dXRoYjBiNzBpMHF0enduZm5rOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="400" alt="giphy"
-     style="width:320px; height:180px; object-fit:cover; display:block;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWIzOGZqczIzbzRkdzV4c3pzeWV6dXRoYjBiNzBpMHF0enduZm5rOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="400"/>
 </p>
 
 <h1 align="center">Priscila Freitas</h1>
